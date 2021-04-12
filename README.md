@@ -1,2 +1,2 @@
-# Snake_Test_Git
+# Snake Test Git
 Just testing github with an school project :/ i guess...
